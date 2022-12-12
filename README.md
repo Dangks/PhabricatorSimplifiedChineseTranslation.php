@@ -1,0 +1,2 @@
+# PhabricatorSimplifiedChineseTranslation.php
+phabricator_zh_Hans
